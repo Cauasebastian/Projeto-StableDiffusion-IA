@@ -1,4 +1,4 @@
-# Geração de Imagem com IA (Disciplina de PI4)
+# Geração de Imagem com IA (Disciplina de INTELIGENCIA ARTIFICIAL APLICADA)
  
 Este projeto utiliza o modelo de difusão Stable Diffusion para gerar imagens a partir de prompts textuais. O modelo é otimizado para criar imagens de alta qualidade, baseadas em descrições detalhadas fornecidas pelo usuário. O sistema permite a escolha de diferentes versões do modelo, ajuste de parâmetros, e a aplicação de estilos gráficos.
 
